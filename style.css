@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+    border: 2px solid black;
+}
+input{
+    font-size: 30px;
+    height: 45px;
+    width: 225px;
+}
+.gray{
+    background: gray;
+
+}
+button{
+    font-size: 25px;
+    background: black;
+    color: white;
+    width: 75px;
+    height: 53px;
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+}
