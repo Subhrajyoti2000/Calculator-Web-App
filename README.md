@@ -1,9 +1,5 @@
 # Calculator-Web-App
 This GitHub repository houses a fully functional web application for a basic calculator, capable of performing addition, subtraction, multiplication, and division operations. This calculator is built using a combination of HTML, CSS, and JavaScript to provide a user-friendly and responsive interface.
-Repository Name: Calculator Web App
-
-Description:
-This GitHub repository houses a fully functional web application for a basic calculator, capable of performing addition, subtraction, multiplication, and division operations. This calculator is built using a combination of HTML, CSS, and JavaScript to provide a user-friendly and responsive interface.
 
 Features:
 1. **Basic Arithmetic Operations**: The calculator supports four fundamental arithmetic operations: addition, subtraction, multiplication, and division. Users can easily perform these operations with a straightforward user interface.
